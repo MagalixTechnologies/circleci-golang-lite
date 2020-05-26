@@ -5,7 +5,7 @@ build base image in the CircleCI.
 
 Images includes:
 
-* go 1.10.2
+* go 1.14
 * ca-certificates
 * git
 * openssl
@@ -37,3 +37,4 @@ make image push@magalixcorp
 ```
 
 It will automatically build image and push it into Docker Hub under `magalixcorp` org.
+
