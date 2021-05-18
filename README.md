@@ -5,7 +5,7 @@ build base image in the CircleCI.
 
 Images includes:
 
-* go 1.14
+* go 1.16
 * ca-certificates
 * git
 * openssl
